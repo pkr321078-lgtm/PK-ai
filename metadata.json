@@ -1,0 +1,6 @@
+{
+  "name": "PK JARVIS",
+  "description": "Personal AI assistant with Android Keystore AES-GCM encrypted API vault, multi-provider live connections, ElevenLabs dual voices, vision, knowledge, automation, and device tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

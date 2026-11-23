@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PK JARVIS</string>
+    <string name="app_tagline">YOUR PERSONAL INTELLIGENCE</string>
+    <string name="nav_jarvis">JARVIS</string>
+    <string name="nav_api_vault">API Vault</string>
+    <string name="nav_tools">Hub</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_system">System</string>
+    <string name="action_save_securely">Save Securely</string>
+    <string name="action_test_connection">Test Connection</string>
+    <string name="action_retry_connection">Retry Connection</string>
+    <string name="action_update_key">Update Key</string>
+    <string name="action_delete_key">Delete Key</string>
+    <string name="status_not_configured">Not configured</string>
+    <string name="status_saved_securely">Saved securely</string>
+    <string name="status_testing">Testing connection…</string>
+    <string name="status_connected">Connected</string>
+    <string name="cd_jarvis_orb">PK JARVIS neural core visualizer</string>
+    <string name="cd_mic_button">Toggle microphone voice input</string>
+    <string name="cd_stop_button">Stop speaking or generation</string>
+    <string name="cd_voice_toggle">Toggle voice output</string>
+    <string name="cd_send_message">Send message to PK JARVIS</string>
+    <string name="cd_attach_image">Attach image for AI Vision</string>
+    <string name="cd_show_hide_key">Show or hide API key input</string>
+    <string name="cd_switch_profile">Switch local user profile</string>
+</resources>

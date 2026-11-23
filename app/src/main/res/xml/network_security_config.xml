@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Enforce HTTPS globally so API keys are never sent over cleartext HTTP -->
+    <base-config cleartextTrafficPermitted="false" />
+    <!-- Allow localhost loopback only for local testing/self-hosted dev proxies -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">127.0.0.1</domain>
+        <domain includeSubdomains="false">localhost</domain>
+    </domain-config>
+</network-security-config>
